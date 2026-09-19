@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Test.Entities;
+
+namespace Test.Datas
+{
+    public class StudentDAO
+    {
+    }
+}

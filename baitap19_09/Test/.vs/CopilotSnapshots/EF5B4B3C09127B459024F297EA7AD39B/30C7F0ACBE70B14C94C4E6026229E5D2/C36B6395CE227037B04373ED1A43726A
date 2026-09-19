@@ -1,0 +1,92 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+using Test.Entities;
+
+namespace Test.DAO
+{
+    public class StudentDAO
+    {
+        private readonly List<Student> students = new List<Student>();
+
+        public void Add(Student student)
+        {
+            if (student == null) throw new ArgumentNullException(nameof(student));
+            // ensure student is valid
+            student.Validate();
+
+            // additional pattern checks
+            if (!IsValidStudentId(student.StudentId)) throw new ArgumentException("StudentId has invalid format.", nameof(student.StudentId));
+            if (!IsValidFullName(student.FullName)) throw new ArgumentException("FullName has invalid characters.", nameof(student.FullName));
+
+            if (students.Any(s => s.StudentId == student.StudentId)) throw new InvalidOperationException($"A student with Id '{student.StudentId}' already exists.");
+            students.Add(student);
+        }
+
+        public void Edit(Student student)
+        {
+            if (student == null) throw new ArgumentNullException(nameof(student));
+            // validate patterns before updating
+            if (!IsValidStudentId(student.StudentId)) throw new ArgumentException("StudentId has invalid format.", nameof(student.StudentId));
+            if (!IsValidFullName(student.FullName)) throw new ArgumentException("FullName has invalid characters.", nameof(student.FullName));
+
+            var idx = students.FindIndex(s => s.StudentId == student.StudentId);
+            if (idx == -1) throw new KeyNotFoundException($"Student with Id '{student.StudentId}' not found.");
+            students[idx] = student;
+        }
+
+        public bool Delete(string id)
+        {
+            if (string.IsNullOrWhiteSpace(id)) return false;
+            var existing = students.FirstOrDefault(s => s.StudentId == id);
+            if (existing == null) return false;
+            return students.Remove(existing);
+        }
+
+        public List<Student> GetAlls()
+        {
+            return new List<Student>(students);
+        }
+
+        public Student GetById(string id)
+        {
+            if (string.IsNullOrWhiteSpace(id)) return null;
+            return students.FirstOrDefault(s => s.StudentId == id);
+        }
+
+        public List<Student> GetByName(string name)
+        {
+            if (string.IsNullOrWhiteSpace(name)) return new List<Student>();
+            return students
+                .Where(s => !string.IsNullOrEmpty(s.FullName) && s.FullName.IndexOf(name, StringComparison.OrdinalIgnoreCase) >= 0)
+                .ToList();
+        }
+
+        // return list of students admitted when Score >= cutoff
+        public List<Student> GetAdmitted(double cutoff)
+        {
+            if (cutoff < 0) throw new ArgumentOutOfRangeException(nameof(cutoff), "Cutoff must be non-negative.");
+            return students.Where(s => s.Score >= cutoff).ToList();
+        }
+
+        // lowercase alias
+        public List<Student> getAdmitted(double cutoff) => GetAdmitted(cutoff);
+
+        // Patterns: StudentId - letters/digits, 4-12 chars; FullName - letters, spaces, hyphen, apostrophe
+        private static readonly Regex StudentIdRegex = new Regex("^[A-Za-z0-9]{4,12}$", RegexOptions.Compiled);
+        private static readonly Regex FullNameRegex = new Regex("^[A-Za-zÀ-ÖØ-öø-ÿ'\\-\\s]{2,100}$", RegexOptions.Compiled);
+
+        private static bool IsValidStudentId(string id)
+        {
+            if (string.IsNullOrWhiteSpace(id)) return false;
+            return StudentIdRegex.IsMatch(id.Trim());
+        }
+
+        private static bool IsValidFullName(string name)
+        {
+            if (string.IsNullOrWhiteSpace(name)) return false;
+            return FullNameRegex.IsMatch(name.Trim());
+        }
+    }
+}

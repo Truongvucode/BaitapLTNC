@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|c:\\users\\truon\\desktop\\c# pj\\test\\test\\dao\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|solutionrelative:test\\dao\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|c:\\users\\truon\\desktop\\c# pj\\test\\test\\datas\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|solutionrelative:test\\datas\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|c:\\users\\truon\\desktop\\c# pj\\test\\test\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|solutionrelative:test\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|c:\\users\\truon\\desktop\\c# pj\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|c:\\users\\truon\\desktop\\c# pj\\test\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D04E75B7-8DCC-4013-85E9-69635A8564C0}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\DAO\\StudentDAO.cs",
+              "RelativeDocumentMoniker": "Test\\DAO\\StudentDAO.cs",
+              "ToolTip": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\DAO\\StudentDAO.cs*",
+              "RelativeToolTip": "Test\\DAO\\StudentDAO.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T07:55:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Datas\\StudentDAO.cs",
+              "RelativeDocumentMoniker": "Test\\Datas\\StudentDAO.cs",
+              "ToolTip": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Datas\\StudentDAO.cs",
+              "RelativeToolTip": "Test\\Datas\\StudentDAO.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T07:48:27.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test",
+              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-19T07:04:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Test\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Entities\\Student.cs",
+              "RelativeToolTip": "Test\\Entities\\Student.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T07:43:40.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\truon\\Desktop\\C# PJ\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T07:04:43.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
