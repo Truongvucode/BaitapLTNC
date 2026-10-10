@@ -1,0 +1,113 @@
+﻿namespace WinFormsApp1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        private void fontDialog1_Apply(object sender, EventArgs e)
+        {
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+        }
+
+        private bool TryGetInputs(out double a, out double b, out double c)
+        {
+            a = b = c = 0;
+            if (!double.TryParse(textBox1.Text, out a))
+            {
+                MessageBox.Show("Invalid input for A", "Input error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+            if (!double.TryParse(textBox2.Text, out b))
+            {
+                MessageBox.Show("Invalid input for B", "Input error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+            if (!double.TryParse(textBox3.Text, out c))
+            {
+                MessageBox.Show("Invalid input for C", "Input error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+            return true;
+        }
+
+        private bool TryGetTwoInputs(out double a, out double b)
+        {
+            a = b = 0;
+            if (!double.TryParse(textBox1.Text, out a))
+            {
+                MessageBox.Show("Invalid input for A", "Input error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+            if (!double.TryParse(textBox2.Text, out b))
+            {
+                MessageBox.Show("Invalid input for B", "Input error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+            return true;
+        }
+
+        // Multiply (NHAN)
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (!TryGetInputs(out double a, out double b, out double c))
+                return;
+
+            double result = a * b * c;
+            labelResult.Text = $"Result: {result}";
+        }
+
+        // Subtract (TRU): A - B - C
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (!TryGetInputs(out double a, out double b, out double c))
+                return;
+
+            double result = a - b - c;
+            labelResult.Text = $"Result: {result}";
+        }
+
+        // Add (CONG) - only add two numbers now
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (!TryGetTwoInputs(out double a, out double b))
+                return;
+
+            double result = a + b;
+            labelResult.Text = $"Result: {result}";
+        }
+
+        // Divide (CHIA): A / B / C
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (!TryGetInputs(out double a, out double b, out double c))
+                return;
+
+            if (b == 0 || c == 0)
+            {
+                MessageBox.Show("Cannot divide by zero (B or C).", "Math error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            double result = a / b / c;
+            labelResult.Text = $"Result: {result}";
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
