@@ -1,0 +1,15 @@
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\bin\Debug\net10.0\QLTVDAO.deps.json
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\bin\Debug\net10.0\QLTVDAO.runtimeconfig.json
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\bin\Debug\net10.0\QLTVDAO.dll
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\bin\Debug\net10.0\QLTVDAO.pdb
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.csproj.AssemblyReference.cache
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.AssemblyInfoInputs.cache
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.AssemblyInfo.cs
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.csproj.CoreCompileInputs.cache
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.sourcelink.json
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.dll
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\refint\QLTVDAO.dll
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.pdb
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\QLTVDAO.genruntimeconfig.cache
+C:\Users\truon\BaitapLTNC\bt24_10\QLTVDAO\obj\Debug\net10.0\ref\QLTVDAO.dll

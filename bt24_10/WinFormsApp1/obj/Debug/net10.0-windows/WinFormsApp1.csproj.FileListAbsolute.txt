@@ -1,0 +1,105 @@
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\truon\Desktop\C# PJ\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\QuanLySinhVienWF.View.FrmQuanLySinhVien.resources
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Broker.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\QLTVDAO.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\QLTVDAO.pdb
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\QuanLySinhVienWF.View.FrmQuanLySinhVien.resources
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\truon\BaitapLTNC\bt24_10\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
