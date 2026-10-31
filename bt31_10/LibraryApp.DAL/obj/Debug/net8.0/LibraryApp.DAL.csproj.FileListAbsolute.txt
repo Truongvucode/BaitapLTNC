@@ -1,0 +1,16 @@
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\bin\Debug\net8.0\LibraryApp.DAL.deps.json
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\bin\Debug\net8.0\LibraryApp.DAL.runtimeconfig.json
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\bin\Debug\net8.0\LibraryApp.DAL.dll
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\bin\Debug\net8.0\LibraryApp.DAL.pdb
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.csproj.AssemblyReference.cache
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.AssemblyInfoInputs.cache
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.AssemblyInfo.cs
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.sourcelink.json
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.dll
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\refint\LibraryApp.DAL.dll
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.pdb
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryApp.DAL.genruntimeconfig.cache
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\ref\LibraryApp.DAL.dll
+C:\Users\truon\BaitapLTNC\bt31_10\LibraryApp.DAL\obj\Debug\net8.0\LibraryA.F9379074.Up2Date
